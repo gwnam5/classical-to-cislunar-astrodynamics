@@ -1,5 +1,5 @@
 import numpy as np
-from vectors import norm
+from src.vectors import norm
 
 def two_body_acceleration(r, mu):
     """
